@@ -109,5 +109,9 @@ input[type="submit"]:hover {
     justify-content: center;
     align-items: center;
     gap: 10px;
-    height: 100vh;
+    
+}
+.header-advanced-logo {
+    top: 0;
+    size: 1rem;
 }
