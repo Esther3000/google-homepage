@@ -94,9 +94,20 @@ input[type="submit"]:hover {
     gap: 20px;
   }
   .blue-button {
-    background-color: blue;
+    background-color: rgb(54, 134, 238);
   }
   .blue-button:hover {
     box-shadow: 0px 5px 5px 0px rgba(17, 7, 160, 0.1);
     border: 1px solid rgba(105, 98, 105, 0.25);
   }
+.search-topic {
+    display: flex;
+}
+.advanced-search-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100vh;
+}
