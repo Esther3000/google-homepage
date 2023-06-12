@@ -86,14 +86,15 @@ input[type="submit"]:hover {
 }
 .logo-subtext {
     color: rgb(14, 103, 206);
-    margin-right: -55px;
+    margin-left: 100px;
     margin-top: -30px;
   }
   .form-group {
     display: flex;
+    gap: 20px;
   }
   .blue-button {
-    color: blue;
+    background-color: blue;
   }
   .blue-button:hover {
     box-shadow: 0px 5px 5px 0px rgba(17, 7, 160, 0.1);
