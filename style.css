@@ -85,5 +85,6 @@ input[type="submit"]:hover {
   text-decoration: underline;
 }
 .logo-subtext {
-    color: blue;
+    color: rgb(14, 103, 206);
+    margin-left: 20px;
   }
