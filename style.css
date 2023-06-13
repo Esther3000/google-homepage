@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Karma:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Karma:wght@500&family=Roboto:wght@300;400&family=Special+Elite&display=swap');
 
 body {
   font-family: 'Karma', serif;
@@ -15,10 +14,6 @@ body {
     top: 100px;
     
 
-}
-.monospace {
-  font-family: 'Special Elite', cursive;
-  font-size: small;
 }
 
 a {
@@ -102,6 +97,8 @@ input[type="submit"]:hover {
   .form-group {
     display: flex;
     gap: 20px;
+    font-family: arial,sans-serif;
+    font-size: small;
   }
   .blue-button {
     background-color: rgb(96, 185, 245);
@@ -165,6 +162,7 @@ input[type="submit"]:hover {
   .page-change a {
     margin-left: 10px;
   }
+  
  
   
   
