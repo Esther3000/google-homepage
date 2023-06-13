@@ -191,7 +191,7 @@ input[type="submit"]:hover {
     width: 49%;
     height: 2rem;
     padding: 2px 0;
-    flex-wrap: wrap;
+    align-content: start;
     border: 1px solid #c2bdbd;
   }
   
