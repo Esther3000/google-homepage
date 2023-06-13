@@ -183,12 +183,6 @@ input[type="submit"]:hover {
     display: block;
   }
   
-  
-  .form-group {
-    display: flex;
-    align-items: baseline;
-  }
-  
   .form-group label {
     flex-shrink: 0;
     
