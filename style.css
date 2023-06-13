@@ -190,9 +190,9 @@ input[type="submit"]:hover {
    input[type="number"],
   .form-select,
    input[type="url"] {
-    width: 6rem;
-    height: 1rem;
-    border: 1px solid #ebe6e6;
+    width: 10rem;
+    height: 2rem;
+    border: 1px solid #c2bdbd;
   }
   
   
