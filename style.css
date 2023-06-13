@@ -9,8 +9,11 @@ body {
   display: flex;
   justify-content: flex-end;
   gap: 20px;
-  top: 0;
+  
 
+}
+.header-advanced {
+    top: 0;
 }
 .monospace {
   font-family: 'Special Elite', cursive;
@@ -92,7 +95,7 @@ input[type="submit"]:hover {
 }
 .logo-subtext {
     color: rgb(14, 103, 206);
-    margin-left: 250px;
+    margin-left: 200px;
     margin-top: -30px;
   }
   .form-group {
@@ -120,6 +123,6 @@ input[type="submit"]:hover {
     
 }
 .google-logo {
-    width: 50px;
+    width: 70px;
     height: auto;
 }
