@@ -189,8 +189,8 @@ input[type="submit"]:hover {
    input[type="number"],
   .form-select,
    input[type="url"] {
-    width: 6rem;
-    height: 1.5rem;
+    width: 7rem;
+    height: 30px;
     display: block;
   }
   
