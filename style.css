@@ -105,6 +105,7 @@ input[type="submit"]:hover {
   }
   .blue-button {
     background-color: rgb(96, 185, 245);
+    color: #fff;
   }
   .blue-button:hover {
     box-shadow: 0px 5px 5px 0px rgba(17, 7, 160, 0.1);
