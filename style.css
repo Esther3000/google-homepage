@@ -13,11 +13,12 @@ body {
 
 }
 .header-advanced {
-    top: 0;
+    top: 20px;
+    display: flex;
 }
 .monospace {
   font-family: 'Special Elite', cursive;
-  font-size: x-small;
+  font-size: small;
 }
 
 a {
@@ -95,7 +96,7 @@ input[type="submit"]:hover {
 }
 .logo-subtext {
     color: rgb(14, 103, 206);
-    margin-left: 220px;
+    margin-left: 215px;
     margin-top: -30px;
   }
   .form-group {
@@ -103,7 +104,7 @@ input[type="submit"]:hover {
     gap: 20px;
   }
   .blue-button {
-    background-color: rgb(54, 134, 238);
+    background-color: rgb(109, 160, 226);
   }
   .blue-button:hover {
     box-shadow: 0px 5px 5px 0px rgba(17, 7, 160, 0.1);
@@ -125,4 +126,13 @@ input[type="submit"]:hover {
 .google-logo {
     width: 70px;
     height: auto;
+}
+.appbar label{
+    color: red;
+    
+}
+.appbar {
+    width: 100%;
+    height: 10rem;
+    border-bottom: 1px solid lightgrey;
 }
