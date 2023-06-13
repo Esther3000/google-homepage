@@ -194,6 +194,9 @@ input[type="submit"]:hover {
     height: 2rem;
     border: 1px solid #c2bdbd;
   }
+  .clarification {
+    display: block;
+  }
   
   
   
