@@ -136,3 +136,29 @@ input[type="submit"]:hover {
     height: 5rem;
     border-bottom: 1px solid lightgrey;
 }
+.header-advanced {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .header-advanced-logo {
+    flex-grow: 0;
+  }
+  
+  .page-change {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .page-change a {
+    margin-left: 10px;
+  }
+ 
+  
+  
+  
+  
+  
