@@ -183,10 +183,7 @@ input[type="submit"]:hover {
     display: block;
   }
   
-  .input-clarification {
-    display: flex;
-    align-items: center;
-  }
+  
   
    input[type="text"],
    input[type="number"],
@@ -197,9 +194,7 @@ input[type="submit"]:hover {
     display: block;
   }
   
-  .clarification {
-    font-size: 0.8em;
-  }
+  
   
   
  
