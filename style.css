@@ -136,7 +136,7 @@ input[type="submit"]:hover {
   
   .appbar label {
     font-size: 20px;
-    font-weight: bold;
+    margin-left: 20%;
     color: red;
   }
   
