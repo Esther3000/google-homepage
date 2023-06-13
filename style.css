@@ -104,10 +104,11 @@ input[type="submit"]:hover {
     gap: 20px;
   }
   .blue-button {
-    background-color: rgb(109, 160, 226);
+    background-color: rgb(96, 185, 245);
   }
   .blue-button:hover {
     box-shadow: 0px 5px 5px 0px rgba(17, 7, 160, 0.1);
+    background-color: rgb(59, 30, 224);
     border: 1px solid rgba(105, 98, 105, 0.25);
   }
 .search-topic {
@@ -136,8 +137,8 @@ input[type="submit"]:hover {
   
   .appbar label {
     font-size: 20px;
-    margin-left: 5%;
-    color: red;
+    margin-left: 2rem;
+    color: rgb(143, 5, 5);
   }
   
   .separator-line {
