@@ -18,7 +18,7 @@ body {
 }
 .monospace {
   font-family: 'Special Elite', cursive;
-  font-size: smaller;
+  font-size: small;
 }
 
 a {
@@ -168,14 +168,14 @@ input[type="submit"]:hover {
     margin-left: 10px;
   }
   .advanced-search-container {
-    display: flex;
+    display: block;
     flex-direction: column;
   }
   
   .form-group {
     display: flex;
     align-items: center;
-    margin-bottom: 10px;
+    margin-right: 2rem;
   }
   
   .form-group label {
@@ -198,9 +198,7 @@ input[type="submit"]:hover {
     font-size: 0.8em;
   }
   
-  .clarification span {
-    font-family: monospace;
-  }
+  
  
   
   
