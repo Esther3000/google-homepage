@@ -9,12 +9,10 @@ body {
   display: flex;
   justify-content: flex-end;
   gap: 20px;
-  
-  
-
+  top: 20%;
 }
 .header-advanced {
-    top: 20%;
+    top: ;
     
 
 }
