@@ -186,16 +186,13 @@ input[type="submit"]:hover {
   
   
   
-   input[type="text"],
-   input[type="number"],
-  .form-select,
-   input[type="url"] {
-    width: 10rem;
+  .form-group input,
+  .form-group select {
+    width: 49%;
     height: 2rem;
+    padding: 2px 0;
+    flex-wrap: wrap;
     border: 1px solid #c2bdbd;
-  }
-  .clarification {
-    display: block;
   }
   
   
