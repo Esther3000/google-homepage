@@ -7,15 +7,16 @@ body {
 
 .page-change {
   display: flex;
-  float: right;
   justify-content: flex-end;
   gap: 20px;
+  float: right;
   
 
 }
 .header-advanced {
-    top: 20px;
+    top: 20%;
     display: flex;
+
 }
 .monospace {
   font-family: 'Special Elite', cursive;
@@ -49,7 +50,7 @@ a {
   top: 50%;
   right: 10px;
   transform: translateY(-50%);
-  float: right;
+  float: left;
   pointer-events: none;
   /* Prevent the SVG icon from being clickable */
 }
