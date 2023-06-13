@@ -191,11 +191,12 @@ input[type="submit"]:hover {
   
   .form-group label {
     flex-shrink: 0;
-    margin-right: 10px;
+    
   }
   
   .form-group input,
-  .form-group select {
+  .form-group select,
+  .form-group a {
     flex: 1;
   }
   
