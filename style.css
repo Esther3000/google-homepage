@@ -178,7 +178,8 @@ input[type="submit"]:hover {
     margin-right: 2rem;
   }
   
-  .form-group label {
+  .form-group label,
+  .search-topic {
     margin-left: 2rem;
     display: block;
   }
