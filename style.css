@@ -9,13 +9,13 @@ body {
   display: flex;
   justify-content: flex-end;
   gap: 20px;
-  float: right;
+  
   
 
 }
 .header-advanced {
     top: 20%;
-    display: flex;
+    
 
 }
 .monospace {
