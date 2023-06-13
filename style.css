@@ -188,11 +188,12 @@ input[type="submit"]:hover {
     align-items: center;
   }
   
-  .input-clarification input[type="text"],
-  .input-clarification input[type="number"],
+   input[type="text"],
+   input[type="number"],
   .form-select,
-  .input-clarification input[type="url"] {
-    margin-right: 10px;
+   input[type="url"] {
+    width: 100px;
+    height: 20px;
     display: block;
   }
   
