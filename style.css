@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Karma:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Karma:wght@500&family=Roboto:wght@300;400&family=Tinos&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@500&family=Roboto:wght@300;400&family=Special+Elite&display=swap');
 
 body {
   font-family: 'Karma', serif;
@@ -14,9 +13,8 @@ body {
 
 }
 .monospace {
-    font-family: 'Karma', serif;
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Tinos', serif;
+  font-family: 'Special Elite', cursive;
+  font-size: x-small;
 }
 
 a {
@@ -122,6 +120,6 @@ input[type="submit"]:hover {
     
 }
 .google-logo {
-    width: 100px;
+    width: 50px;
     height: auto;
 }
