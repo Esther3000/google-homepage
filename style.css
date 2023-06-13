@@ -129,7 +129,7 @@ input[type="submit"]:hover {
     height: auto;
 }
 .appbar {
-    height: 5rem;
+    height: 4rem;
     margin-right: 2rem;
     display: flex;
     align-items: center;
