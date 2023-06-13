@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Karma:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@500&family=Roboto:wght@300;400&family=Special+Elite&display=swap');
 
 body {
   font-family: 'Karma', serif;
@@ -14,6 +15,10 @@ body {
     top: 100px;
     
 
+}
+.monospace {
+  font-family: 'Special Elite', cursive;
+  font-size: smaller;
 }
 
 a {
@@ -162,7 +167,40 @@ input[type="submit"]:hover {
   .page-change a {
     margin-left: 10px;
   }
+  .advanced-search-container {
+    display: flex;
+    flex-direction: column;
+  }
   
+  .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    margin-right: 10px;
+  }
+  
+  .input-clarification {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-clarification input[type="text"],
+  .input-clarification input[type="number"],
+  .form-select,
+  .input-clarification input[type="url"] {
+    margin-right: 10px;
+  }
+  
+  .clarification {
+    font-size: 0.8em;
+  }
+  
+  .clarification span {
+    font-family: monospace;
+  }
  
   
   
