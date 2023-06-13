@@ -183,15 +183,15 @@ input[type="submit"]:hover {
     display: block;
   }
   
-  .form-group label {
-    flex-shrink: 0;
-    
-  }
   
-  .form-group input,
-  .form-group select,
-  .form-group a {
-    flex: 1;
+  
+   input[type="text"],
+   input[type="number"],
+  .form-select,
+   input[type="url"] {
+    width: 7rem;
+    height: 30px;
+    display: block;
   }
   
   
